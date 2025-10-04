@@ -1,2 +1,2 @@
 # Online-Shopping-Analysis-Using-SQL
-Navigating The Future of Online Shopping: Dataset Exploration Using SQL.
+Navigating The Future of Online Shopping: Dataset Exploration Using SQL. Extract fundamental insights from the dataset. List all unique cities where customers are located. Count the number of orders placed in 2017. Find the total sales for category. Calculate the percentage of orders that were paid in installments. Count the number of customers from each state.
